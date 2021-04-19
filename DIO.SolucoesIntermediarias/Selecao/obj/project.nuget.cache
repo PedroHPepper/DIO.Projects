@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/2XjE9uMtmIFsC0BARNXwbge7osIs9DDlA6xtyJAb9BgCIbviVha5G2H1cv96Ga1KzEMBB5MaAD4cNFOfD74g==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.SolucoesIntermediarias\\Selecao\\Selecao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

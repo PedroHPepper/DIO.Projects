@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9+Osw6yVAgrSvanGwoCS0DjuIqQYX94zi8szLQPnxMqXXi37ZR/llArY+A5GU5JOCzX9L4JMv5xHlZzEfFXXA==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.SolucoesIntermediarias\\Triangulo\\Triangulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

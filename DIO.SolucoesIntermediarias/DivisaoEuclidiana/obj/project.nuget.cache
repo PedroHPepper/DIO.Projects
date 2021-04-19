@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/BaCd1aZ0SA/PCcLZFVWUoI+wtSLiCoMEzpn9sber18wh4X2KCpKFJthHWyUGK9MrXx/y1rVJunLpl49xE5CKw==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.SolucoesIntermediarias\\DivisaoEuclidiana\\DivisaoEuclidiana.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

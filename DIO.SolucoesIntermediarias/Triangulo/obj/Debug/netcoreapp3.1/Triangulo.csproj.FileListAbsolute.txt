@@ -1,0 +1,13 @@
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.exe
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.deps.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.runtimeconfig.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.runtimeconfig.dev.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.dll
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.pdb
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.csprojAssemblyReference.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.AssemblyInfoInputs.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.AssemblyInfo.cs
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.csproj.CoreCompileInputs.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.dll
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.pdb
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.genruntimeconfig.cache

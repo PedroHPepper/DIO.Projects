@@ -1,0 +1,13 @@
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\bin\Debug\netcoreapp3.1\Selecao.exe
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\bin\Debug\netcoreapp3.1\Selecao.deps.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\bin\Debug\netcoreapp3.1\Selecao.runtimeconfig.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\bin\Debug\netcoreapp3.1\Selecao.runtimeconfig.dev.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\bin\Debug\netcoreapp3.1\Selecao.dll
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\bin\Debug\netcoreapp3.1\Selecao.pdb
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\obj\Debug\netcoreapp3.1\Selecao.csprojAssemblyReference.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\obj\Debug\netcoreapp3.1\Selecao.AssemblyInfoInputs.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\obj\Debug\netcoreapp3.1\Selecao.AssemblyInfo.cs
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\obj\Debug\netcoreapp3.1\Selecao.csproj.CoreCompileInputs.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\obj\Debug\netcoreapp3.1\Selecao.dll
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\obj\Debug\netcoreapp3.1\Selecao.pdb
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\Selecao\obj\Debug\netcoreapp3.1\Selecao.genruntimeconfig.cache

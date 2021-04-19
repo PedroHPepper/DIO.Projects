@@ -1,0 +1,12 @@
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\bin\Debug\netcoreapp3.1\NotasAndMoedas.exe
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\bin\Debug\netcoreapp3.1\NotasAndMoedas.deps.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\bin\Debug\netcoreapp3.1\NotasAndMoedas.runtimeconfig.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\bin\Debug\netcoreapp3.1\NotasAndMoedas.runtimeconfig.dev.json
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\bin\Debug\netcoreapp3.1\NotasAndMoedas.dll
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\bin\Debug\netcoreapp3.1\NotasAndMoedas.pdb
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\obj\Debug\netcoreapp3.1\NotasAndMoedas.AssemblyInfoInputs.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\obj\Debug\netcoreapp3.1\NotasAndMoedas.AssemblyInfo.cs
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\obj\Debug\netcoreapp3.1\NotasAndMoedas.csproj.CoreCompileInputs.cache
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\obj\Debug\netcoreapp3.1\NotasAndMoedas.dll
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\obj\Debug\netcoreapp3.1\NotasAndMoedas.pdb
+F:\Pedro\Projetos\DIO.SolucoesIntermediarias\NotasAndMoedas\obj\Debug\netcoreapp3.1\NotasAndMoedas.genruntimeconfig.cache

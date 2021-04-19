@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gdEJK5a1GXs5x9BSQ+T06FoGD49rStnxOoSglAOyPgN02JWLHU11SKOUDuRV2OGUPxIpOKVLZ3EIwy5cPoY6g==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.SolucoesIntermediarias\\Bhaskara\\Bhaskara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
