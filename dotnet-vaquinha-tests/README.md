@@ -1,3 +1,6 @@
+# Autor
+Projeto feito por Eliézer Zarpelão e foi utilizado durante meu curso de testes disponibilizado pela Digital Innovation One
+
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
