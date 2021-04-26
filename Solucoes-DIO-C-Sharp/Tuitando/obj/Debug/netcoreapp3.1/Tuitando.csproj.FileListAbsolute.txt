@@ -1,0 +1,13 @@
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.exe
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.deps.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.runtimeconfig.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.runtimeconfig.dev.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\bin\Debug\netcoreapp3.1\Tuitando.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.csprojAssemblyReference.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.AssemblyInfoInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.AssemblyInfo.cs
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Tuitando\obj\Debug\netcoreapp3.1\Tuitando.genruntimeconfig.cache

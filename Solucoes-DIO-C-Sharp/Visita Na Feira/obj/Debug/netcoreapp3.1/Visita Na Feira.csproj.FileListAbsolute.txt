@@ -1,0 +1,13 @@
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\bin\Debug\netcoreapp3.1\Visita Na Feira.exe
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\bin\Debug\netcoreapp3.1\Visita Na Feira.deps.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\bin\Debug\netcoreapp3.1\Visita Na Feira.runtimeconfig.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\bin\Debug\netcoreapp3.1\Visita Na Feira.runtimeconfig.dev.json
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\bin\Debug\netcoreapp3.1\Visita Na Feira.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\bin\Debug\netcoreapp3.1\Visita Na Feira.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\obj\Debug\netcoreapp3.1\Visita Na Feira.csprojAssemblyReference.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\obj\Debug\netcoreapp3.1\Visita Na Feira.AssemblyInfoInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\obj\Debug\netcoreapp3.1\Visita Na Feira.AssemblyInfo.cs
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\obj\Debug\netcoreapp3.1\Visita Na Feira.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\obj\Debug\netcoreapp3.1\Visita Na Feira.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\obj\Debug\netcoreapp3.1\Visita Na Feira.pdb
+C:\Users\Cliente\OneDrive\Área de Trabalho\Projetos\Solucoes-DIO\Solucoes-DIO\Visita Na Feira\obj\Debug\netcoreapp3.1\Visita Na Feira.genruntimeconfig.cache
