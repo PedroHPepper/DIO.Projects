@@ -1,0 +1,13 @@
+F:\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+F:\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DesafioViagemDeCaro.exe
+F:\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DesafioViagemDeCaro.deps.json
+F:\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DesafioViagemDeCaro.runtimeconfig.json
+F:\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DesafioViagemDeCaro.runtimeconfig.dev.json
+F:\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DesafioViagemDeCaro.dll
+F:\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DesafioViagemDeCaro.pdb
+F:\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DesafioViagemDeCaro.dll
+F:\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DesafioViagemDeCaro.pdb

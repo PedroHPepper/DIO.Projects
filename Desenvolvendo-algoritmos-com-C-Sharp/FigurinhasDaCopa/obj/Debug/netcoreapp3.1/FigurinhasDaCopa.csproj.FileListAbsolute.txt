@@ -1,0 +1,13 @@
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\bin\Debug\netcoreapp3.1\FigurinhasDaCopa.exe
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\bin\Debug\netcoreapp3.1\FigurinhasDaCopa.deps.json
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\bin\Debug\netcoreapp3.1\FigurinhasDaCopa.runtimeconfig.json
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\bin\Debug\netcoreapp3.1\FigurinhasDaCopa.runtimeconfig.dev.json
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\bin\Debug\netcoreapp3.1\FigurinhasDaCopa.dll
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\bin\Debug\netcoreapp3.1\FigurinhasDaCopa.pdb
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\obj\Debug\netcoreapp3.1\FigurinhasDaCopa.csprojAssemblyReference.cache
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\obj\Debug\netcoreapp3.1\FigurinhasDaCopa.AssemblyInfoInputs.cache
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\obj\Debug\netcoreapp3.1\FigurinhasDaCopa.AssemblyInfo.cs
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\obj\Debug\netcoreapp3.1\FigurinhasDaCopa.csproj.CoreCompileInputs.cache
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\obj\Debug\netcoreapp3.1\FigurinhasDaCopa.dll
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\obj\Debug\netcoreapp3.1\FigurinhasDaCopa.pdb
+F:\Teste\ConsoleApp1\FigurinhasDaCopa\obj\Debug\netcoreapp3.1\FigurinhasDaCopa.genruntimeconfig.cache

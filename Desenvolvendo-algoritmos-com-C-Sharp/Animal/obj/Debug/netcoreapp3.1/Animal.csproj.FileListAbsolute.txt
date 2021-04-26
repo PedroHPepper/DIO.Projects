@@ -1,0 +1,13 @@
+F:\Teste\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+F:\Teste\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+F:\Teste\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+F:\Teste\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+F:\Teste\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+F:\Teste\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+F:\Teste\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.csprojAssemblyReference.cache
+F:\Teste\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+F:\Teste\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+F:\Teste\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+F:\Teste\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+F:\Teste\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+F:\Teste\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache
