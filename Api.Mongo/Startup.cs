@@ -11,8 +11,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-//dvrm8hSyw3oaeeTQ
-//mongodb+srv://api:dvrm8hSyw3oaeeTQ@cluster0.ye2m4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 namespace Api.Mongo
 {
     public class Startup
