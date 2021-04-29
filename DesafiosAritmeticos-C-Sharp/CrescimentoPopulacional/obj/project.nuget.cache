@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2Iku0tMIrc5a7+sOzWXKP9pEGB6YUuklWn8p7PlsW9vzYSNGqAQ7UnNgcTGVtU7w0eghl6lfyCFn4T6iwE6IQ==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\DesafiosAritmeticos-C-Sharp\\CrescimentoPopulacional\\CrescimentoPopulacional.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

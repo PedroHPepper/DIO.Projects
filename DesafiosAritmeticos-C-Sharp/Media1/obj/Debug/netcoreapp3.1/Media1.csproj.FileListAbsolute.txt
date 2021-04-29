@@ -1,0 +1,12 @@
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\bin\Debug\netcoreapp3.1\Media1.exe
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\bin\Debug\netcoreapp3.1\Media1.deps.json
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\bin\Debug\netcoreapp3.1\Media1.runtimeconfig.json
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\bin\Debug\netcoreapp3.1\Media1.runtimeconfig.dev.json
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\bin\Debug\netcoreapp3.1\Media1.dll
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\bin\Debug\netcoreapp3.1\Media1.pdb
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\obj\Debug\netcoreapp3.1\Media1.AssemblyInfoInputs.cache
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\obj\Debug\netcoreapp3.1\Media1.AssemblyInfo.cs
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\obj\Debug\netcoreapp3.1\Media1.csproj.CoreCompileInputs.cache
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\obj\Debug\netcoreapp3.1\Media1.dll
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\obj\Debug\netcoreapp3.1\Media1.pdb
+F:\Pedro\Projetos\DIO.Projects\DesafiosAritmeticos-C-Sharp\Media1\obj\Debug\netcoreapp3.1\Media1.genruntimeconfig.cache

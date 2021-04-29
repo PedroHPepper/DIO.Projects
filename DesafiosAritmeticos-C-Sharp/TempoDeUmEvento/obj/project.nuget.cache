@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "amU00hlGRpqAre+0Izarcpkeo0DkYdTgPhw0LTj/jxumhDH8qyYRJlgFnj0xQG6puvq/8edIkhIzE1eo1q20Yw==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\DesafiosAritmeticos-C-Sharp\\TempoDeUmEvento\\TempoDeUmEvento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
