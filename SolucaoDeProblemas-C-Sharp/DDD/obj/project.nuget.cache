@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvG4CkD3n5vhVUyCtf88SW76WfPB4ioHKv6UB0X+p+C1iKhNqMl635Xf2gN0iJeC15P1MIkEQtv0UpifjZeKnw==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\SolucaoDeProblemas-C-Sharp\\DDD\\DDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

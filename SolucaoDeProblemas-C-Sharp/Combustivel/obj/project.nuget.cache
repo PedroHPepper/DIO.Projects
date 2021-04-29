@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtMobNC6JTi6j9RJrcbRit2iFxwFZCEXd1jgnnN1kutgi4xh/ilf8pZd28j10fsQ/mNW3fFe8Bw8a5XxOSFCbg==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\SolucaoDeProblemas-C-Sharp\\Combustivel\\Combustivel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

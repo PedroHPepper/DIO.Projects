@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLJSTyvMW/P2Gjx693euyqhwOk637rYOVvO2K1yON15Nj0bvc1ukjjFBUykN81PpqYqqZDsElQVpTNQFYGDaqA==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\SolucaoDeProblemas-C-Sharp\\AumentoDeSalario\\AumentoDeSalario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
