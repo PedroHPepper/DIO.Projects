@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "we/vaZFjL0bm96nmwmHIkgxUgf9i3RgdMcvv3Z549wY/0R3stwF3jE9cehbHODCIdiKEWk01Qb3zFR3SfL5UmA==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\Praticando-Programação-Em-C-Sharp\\ComprasNoSupermercado\\ComprasNoSupermercado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

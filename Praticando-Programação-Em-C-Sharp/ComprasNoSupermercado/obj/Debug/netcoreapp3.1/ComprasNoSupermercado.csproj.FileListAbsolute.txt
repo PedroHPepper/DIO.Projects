@@ -1,0 +1,13 @@
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\bin\Debug\netcoreapp3.1\ComprasNoSupermercado.exe
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\bin\Debug\netcoreapp3.1\ComprasNoSupermercado.deps.json
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\bin\Debug\netcoreapp3.1\ComprasNoSupermercado.runtimeconfig.json
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\bin\Debug\netcoreapp3.1\ComprasNoSupermercado.runtimeconfig.dev.json
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\bin\Debug\netcoreapp3.1\ComprasNoSupermercado.dll
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\bin\Debug\netcoreapp3.1\ComprasNoSupermercado.pdb
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\obj\Debug\netcoreapp3.1\ComprasNoSupermercado.csprojAssemblyReference.cache
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\obj\Debug\netcoreapp3.1\ComprasNoSupermercado.AssemblyInfoInputs.cache
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\obj\Debug\netcoreapp3.1\ComprasNoSupermercado.AssemblyInfo.cs
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\obj\Debug\netcoreapp3.1\ComprasNoSupermercado.csproj.CoreCompileInputs.cache
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\obj\Debug\netcoreapp3.1\ComprasNoSupermercado.dll
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\obj\Debug\netcoreapp3.1\ComprasNoSupermercado.pdb
+F:\Pedro\Projetos\DIO.Projects\Praticando-Programação-Em-C-Sharp\ComprasNoSupermercado\obj\Debug\netcoreapp3.1\ComprasNoSupermercado.genruntimeconfig.cache

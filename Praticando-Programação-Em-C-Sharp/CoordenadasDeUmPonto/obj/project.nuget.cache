@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P31EoFi2k2p66eVAUTKib84lI0cmhagbhtrNwb6BDh3dZAOrtyIY0ud63TePTPcUEN7bpz8XEv0+ioaHBJPHeg==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\Praticando-Programação-Em-C-Sharp\\CoordenadasDeUmPonto\\CoordenadasDeUmPonto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
