@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Hc2Gp6CEuVYdCIpCLkW4mu6pEv1ZBKNHY/qRg4+ibVyBddLNY8iy3m0JiOhd4+JM4SrlSKEa+mlDNuKO2KHbA==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\IniciandoAProgramarEmCSharp\\Media1\\Media1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

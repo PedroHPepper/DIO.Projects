@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GHJIAFAWb+d69ArvPniWXW+bCyseH/ZaUxGLqH0m0oEJ4pCqdIbftHYIlhR+jO0+FYURBFYiPyCt3+mbioS9dw==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\IniciandoAProgramarEmCSharp\\SomaSimples\\SomaSimples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

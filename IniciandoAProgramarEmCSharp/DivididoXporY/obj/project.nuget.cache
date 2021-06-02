@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8b1CjTG5of/DHE1X4J86zksDD3fUm3J/LbBqChpQjnijgZ+ggOjVLoLSpb1BWL3YdfNzjrfuDOVy1xvJsbUqg==",
+  "success": true,
+  "projectFilePath": "F:\\Pedro\\Projetos\\DIO.Projects\\IniciandoAProgramarEmCSharp\\DivididoXporY\\DivididoXporY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
